@@ -1,0 +1,82 @@
+.container{
+    display: grid;
+    height: max-content;
+    width: max-content;
+    grid-template-rows: 350px 250px;
+    grid-template-columns: 240px 400px 200px 250px;
+    gap: 5px 5px;
+    outline-style: double;
+    outline-width: 10px;
+    outline-color: darksalmon;
+    background-color:cornsilk;
+}
+
+.Q1{
+    margin: 10px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rosa_rosa-claro.jpg/220px-Rosa_rosa-claro.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 10px;
+        
+}
+
+.Q2{
+    
+    margin-top: 10px;
+    background-image: url(https://static.giulianaflores.com.br/images/product/29044gg1.jpg?ims=500x500);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 20px;
+
+    
+}   
+
+.Q3{
+    margin-top: 10px;
+    background-image: url(https://images.pexels.com/photos/2013699/pexels-photo-2013699.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    
+} 
+
+.Q4{
+    margin-top: 10px;
+    background-image: url(https://i.pinimg.com/236x/39/ef/75/39ef753a2e57f8ce51762e83de43c86a--roses-roses-pink-roses.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 20px;
+} 
+
+.Q5{
+    background-image: url(https://minhasplantas.s3.amazonaws.com/media/galeria/imagens/01-Gerberas_1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 10px;
+    
+    
+} 
+
+.Q6{
+
+    background-image: url(https://hortodocampogrande.pt/wp-content/uploads/2021/02/01_HCG_intro_1200x752px-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    box-shadow: inset 6px 6px 13px 3px rgba(239, 88, 171, 0.945);
+
+} 
+
+.Q7{
+    background-image: url(https://cdn.awsli.com.br/800x800/1087/1087349/produto/40242159/delicado-buque-de-rosas-importadas-851eeb51.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    
+} 
+
+.Q8{
+    background-image: url(https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia1631/rosas-flores-maior-popularidade-comercializacao-cpt.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+} 
